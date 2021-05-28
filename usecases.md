@@ -7,7 +7,7 @@
 
 ## <a name="Sweden"></a>![Swedish Flag](../assets/img/flag_sweden.png){:class="inline-image"} Sweden
 
-**Unibap AB** -- Supplier
+**Unibap AB**
 
 
 **Volvo Technology AB** 
