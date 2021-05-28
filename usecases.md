@@ -3,53 +3,74 @@
 
 # Use cases 
 
-| ![Swedish Flag](../assets/img/flag_sweden.png){:class="inline-image"} [Sweden](#Sweden) | ![Dutch Flag](../assets/img/flag_netherlands.png){:class="inline-image"} [Netherlands](#Netherlands) | ![Austrian Flag](../assets/img/flag_austria.png){:class="inline-image"} [Austria](#Austria) | ![Turkish Flag](../assets/img/flag_turkey.png){:class="inline-image"} [Turkey](#Turkey) |
+## <a name="UC1"></a>UC1 - Software Open-Source Blended Modeling
 
-## <a name="Sweden"></a>![Swedish Flag](../assets/img/flag_sweden.png){:class="inline-image"} Sweden
+<p>Partners: <b>Mälardalen University</b>, ..., Canon Production Printing</p>
 
-**Unibap AB**
+<p>Description:</p>
 
+## <a name="UC2"></a>UC2 - Combined Textual and Graphical Modelling of State Machines in HCL RTist
 
-**Volvo Technology AB** 
+<p>Partners: <b>HCL Technologies</b></p>
 
-**Mälardalen University** 
+<p>Description:</p>
 
-**Saab AB**
+## <a name="UC3"></a>UC3 - Vehicular Architectural Modeling in EAST-ADL
 
-**HCL Technologies** 
+<p>Partners: <b>Volvo</b></p>
 
-**University of Gothenburg** 
+<p>Description:</p>
 
-**Pictor Consulting AB** 
+## <a name="UC4"></a>UC4 - Cross-Disciplinary Coupling of Models
 
-## <a name="Netherlands"></a>![Dutch Flag](../assets/img/flag_netherlands.png){:class="inline-image"} Netherlands
+<p>Partners: <b>Canon Production Printing Netherlands B.V.</b></p>
 
-**Canon Production Printing Netherlands B.V.** 
+<p>Description:</p>
 
-**Modeling Value Group**
+## <a name="UC5"></a>UC5 - Reactive and Incremental Transformations across DSMLs
 
-**Sioux Embedded Systems BV** 
+<p>Partners: <b>Modeling Value Group</b></p>
 
-**VU University Amsterdam** 
+<p>Description:</p>
 
-## <a name="Austria"></a>![Austrian Flag](../assets/img/flag_austria.png){:class="inline-image"} Austria
+## <a name="UC6"></a>UC6 - Blended Editing and Consistency Checking of SysML Models and Related Program Code
 
-**AVL List GmbH**
+<p>Partners: <b>Saab AB</b></p>
 
-**EclipseSource Services GmbH**
+<p>Description:</p>
 
-**Johannes Kepler University**
+## <a name="UC7"></a>UC7 - Multi- and Cross-Disciplinary Modelling Workbench
 
-**TU Wien**
+<p>Partners: <b>Sioux Embedded Systems BV</b></p>
 
-**WU Vienna**
+<p>Description:</p>
 
-## <a name="Turkey"></a>![Turkish Flag](../assets/img/flag_turkey.png){:class="inline-image"} Turkey
+## <a name="UC8"></a>UC8 - Model-Driven Development of Workflow Models for Debt Collecting Advocacy
 
-**Ford Otosan**
+<p>Partners: <b>HERMES İletisim</b></p>
 
-**HERMES İletisim**
+<p>Description:</p>
 
-**Mantis Software Company** 
+## <a name="UC9"></a>UC9 - Functional Specification, Data Flow and Failure Management in Control System Development + Blended Consistency Management of SysML and Corresponding C/C++ Code
 
-**UNIT Information Technologies R&D Ltd.**
+<p>Partners: <b>Ford Otosan</b></p>
+
+<p>Description:</p>
+
+## <a name="UC10"></a>UC10 - Development Process of Low-Level Software
+
+<p>Partners: <b>Unibap AB</b></p>
+
+<p>Description:</p>
+
+## <a name="UC11"></a>UC11 - Multi-Aspect Modeling for Highly Configurable Automotive Test Beds Ready for Smart Engineering Demands
+
+<p>Partners: <b>AVL List GmbH</b></p>
+
+<p>Description:</p>
+
+## <a name="UC12"></a>UC12 - Agile V-model System Architecture
+
+<p>Partners: <b>Pictor Consulting AB</b></p>
+
+<p>Description:</p>
