@@ -5,72 +5,72 @@
 
 ## <a name="UC1"></a>UC1 - Software Open-Source Blended Modeling
 
-<p>Partners: <b>Mälardalen University</b>, ..., Canon Production Printing</p>
+Partners: *Mälardalen University*, ..., Canon Production Printing
 
-<p>Description:</p>
+Description:
 
 ## <a name="UC2"></a>UC2 - Combined Textual and Graphical Modelling of State Machines in HCL RTist
 
-<p>Partners: <b>HCL Technologies</b></p>
+Partners: *HCL Technologies*
 
-<p>Description:</p>
+Description:
 
 ## <a name="UC3"></a>UC3 - Vehicular Architectural Modeling in EAST-ADL
 
-<p>Partners: <b>Volvo</b></p>
+Partners: *Volvo*
 
-<p>Description:</p>
+Description:
 
 ## <a name="UC4"></a>UC4 - Cross-Disciplinary Coupling of Models
 
-<p>Partners: <b>Canon Production Printing Netherlands B.V.</b></p>
+Partners: *Canon Production Printing Netherlands B.V.*
 
-<p>Description:</p>
+Description:
 
 ## <a name="UC5"></a>UC5 - Reactive and Incremental Transformations across DSMLs
 
-<p>Partners: <b>Modeling Value Group</b></p>
+Partners: *Modeling Value Group*
 
-<p>Description:</p>
+Description:
 
 ## <a name="UC6"></a>UC6 - Blended Editing and Consistency Checking of SysML Models and Related Program Code
 
-<p>Partners: <b>Saab AB</b></p>
+Partners: *Saab AB*
 
-<p>Description:</p>
+Description:
 
 ## <a name="UC7"></a>UC7 - Multi- and Cross-Disciplinary Modelling Workbench
 
-<p>Partners: <b>Sioux Embedded Systems BV</b></p>
+Partners: *Sioux Embedded Systems BV*
 
-<p>Description:</p>
+Description:
 
 ## <a name="UC8"></a>UC8 - Model-Driven Development of Workflow Models for Debt Collecting Advocacy
 
-<p>Partners: <b>HERMES İletisim</b></p>
+Partners: *HERMES İletisim*
 
-<p>Description:</p>
+Description:
 
 ## <a name="UC9"></a>UC9 - Functional Specification, Data Flow and Failure Management in Control System Development + Blended Consistency Management of SysML and Corresponding C/C++ Code
 
-<p>Partners: <b>Ford Otosan</b></p>
+Partners: *Ford Otosan*
 
-<p>Description:</p>
+Description:
 
 ## <a name="UC10"></a>UC10 - Development Process of Low-Level Software
 
-<p>Partners: <b>Unibap AB</b></p>
+Partners: *Unibap AB*
 
-<p>Description:</p>
+Description:
 
 ## <a name="UC11"></a>UC11 - Multi-Aspect Modeling for Highly Configurable Automotive Test Beds Ready for Smart Engineering Demands
 
-<p>Partners: <b>AVL List GmbH</b></p>
+Partners: *AVL List GmbH*
 
-<p>Description:</p>
+Description:
 
 ## <a name="UC12"></a>UC12 - Agile V-model System Architecture
 
-<p>Partners: <b>Pictor Consulting AB</b></p>
+Partners: *Pictor Consulting AB*
 
-<p>Description:</p>
+Description:
