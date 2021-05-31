@@ -34,6 +34,8 @@ During the last decades mission and safety critical systems are increasingly rel
 	
 **HCL Technologies** -- Tool and service provider
 
+[HCL RTist](https://www.hcltechsw.com/rtist), is an Eclipse-based modeling tool for creating event-driven realtime applications in C++. RTist allows users to design their applications at a higher abstraction level using a mix of UML-RealTime and C++. In the scope of the BUMBLE project RTist will be extended with a textual notation for state machines that can be used as an alternative to or together with the existing graphical notation.
+
 **University of Gothenburg** -- University
 
 The researchers at the University of Gothenburg are one of the leading research teams on traceability in Europe.
