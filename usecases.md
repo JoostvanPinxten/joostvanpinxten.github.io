@@ -15,6 +15,8 @@ Partners: *HCL Technologies*
 
 Description:
 
+[HCL RTist](https://www.hcltechsw.com/rtist), an Eclipse-based tool for creating event-driven realtime applications in C++, will be extended to support a textual language for state machines. It can be used as a complement to the current graphical notation, for scenarios where a textual notation is more efficient. Examples include refactoring of state machines, and comparing/merging state machines. A text editor will be developed that support features such as content assist, navigation etc.
+
 ## <a name="UC3"></a>UC3 - Vehicular Architectural Modeling in EAST-ADL
 
 Partners: *Volvo*
