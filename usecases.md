@@ -65,6 +65,8 @@ Partners: **Unibap AB**
 
 Description:
 
+Through case studies, we will investigate the impact of model driven engineering, and specialized tools for supporting that process, on product quality, resource management and development time. The setting is a young tech company developing safety critical components, with a high level of innovation and variation in their portfolio, and a wide range of skills and projects distributed among a relatively small number of employees. Projects flow along a chain where each step involves different people, skills, and tools. This diversity introduces problems such as risk of miscommunication, difficulties in resource distribution, complicated documentation, and more. Our hypothesis is that the use of tools for incorporating model driven engineering in the project workflow will improve the mentioned aspects in the given setting.
+
 ## <a name="UC11"></a>UC11 - Multi-Aspect Modeling for Highly Configurable Automotive Test Beds Ready for Smart Engineering Demands
 
 Partners: **AVL List GmbH**
