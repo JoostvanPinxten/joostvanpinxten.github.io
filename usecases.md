@@ -53,7 +53,7 @@ Partners: **HERMES İletisim**
 
 Description:
 
-## <a name="UC9"></a>UC9 - Functional Specification, Data Flow and Failure Management in Control System Development + Blended Consistency Management of SysML and Corresponding C/C++ Code
+## <a name="UC9"></a>UC9 - Automated Design Rule Verification on Vehicle Models
 
 Partners: **Ford Otosan**
 
